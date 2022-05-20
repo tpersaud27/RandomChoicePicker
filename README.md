@@ -2,5 +2,5 @@
 
 ## Deplyoment Links
 
-- randomchoicepicker.web.app
-- randomchoicepicker.firebaseapp.com
+- https://randomchoicepicker.web.app
+- https://randomchoicepicker.firebaseapp.com
